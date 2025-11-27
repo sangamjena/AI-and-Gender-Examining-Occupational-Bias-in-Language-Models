@@ -32,8 +32,7 @@ https://github.com/sangamjena/AI-and-Gender-Examining-Occupational-Bias-in-Langu
 | Sheet name | Description |
 |-----------|-------------|
 | `raw_wide` | One row per occupation, containing all 3 prompts and responses from all 5 LLMs |
-| `by_model_long` | One row per (occupation, model) pair — suited for analysis and coding |
-| `metadata` | Documentation of prompts, models, dataset structure |
+
 
 ---
 
