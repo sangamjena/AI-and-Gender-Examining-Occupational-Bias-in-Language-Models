@@ -70,8 +70,12 @@ Planned work includes:
 - Comparing outputs across model updates over time
 
 ---
+## 📌 How to Cite
 
-## 📜 Citation
+If you use this dataset or analysis in your research, please cite:
 
-If you use this dataset or analysis, please cite:
+> S. K. Jena (2025). *AI and Gender: Examining Occupational Bias in Large Language Models*. GitHub Repository.
+
+🔗 Citation formats (BibTeX, APA, MLA, etc.) are available via the **“Cite this repository”** button at the top of this GitHub page — powered by the `CITATION.cff` file.
+
 
