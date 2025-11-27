@@ -1,1 +1,25 @@
+cff-version: 1.2.0
+title: "AI and Gender: Examining Occupational Bias in Large Language Models"
+message: "If you use this repository, dataset, or findings in your research, please cite:"
+type: software
+authors:
+  - family-names: Jena
+    given-names: Sangam Kumar
+repository-code: "https://github.com/sangamjena/AI-and-Gender-Examining-Occupational-Bias-in-Language-Models"
+version: 1.0.0
+date-released: 2025-02-01
+keywords:
+  - gender bias
+  - large language models
+  - AI ethics
+  - occupational stereotypes
+  - qualitative analysis
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Jena
+      given-names: Sangam Kumar
+  title: "AI and Gender: Examining Occupational Bias in Large Language Models"
+  year: 2025
+  url: "https://github.com/sangamjena/AI-and-Gender-Examining-Occupational-Bias-in-Language-Models"
 
